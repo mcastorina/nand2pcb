@@ -328,6 +328,14 @@
     [
       "a8497c3f-e136-4aaa-82c6-4ce6721f9e14",
       "yxor"
+    ],
+    [
+      "62fee58a-5a4b-4f7e-a7db-a7ec2266b4f3",
+      "xand16"
+    ],
+    [
+      "1b6100b1-6db6-46ed-838f-9445ada9c264",
+      "yand16"
     ]
   ],
   "text_variables": {}
