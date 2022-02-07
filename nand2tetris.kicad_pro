@@ -336,6 +336,14 @@
     [
       "1b6100b1-6db6-46ed-838f-9445ada9c264",
       "yand16"
+    ],
+    [
+      "3748fc6c-2394-4259-aa1e-4bee3c172a6d",
+      "add_and16"
+    ],
+    [
+      "62415d82-40ba-4b9c-9a09-a1c3dfd66a68",
+      "oxor"
     ]
   ],
   "text_variables": {}
